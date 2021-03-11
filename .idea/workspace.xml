@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb45d15c-a1f2-4672-8595-5bf41d8873ef" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pWlEgDO1WHIqDQSdlHqKF0bei3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.manage">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="django_rest_framework01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="django_rest_framework01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.manage" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb45d15c-a1f2-4672-8595-5bf41d8873ef" name="Default Changelist" comment="" />
+      <created>1615306616920</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615306616920</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="235" y="138" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1615307614902">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="235" y="138" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.960@0.0.1536.960" timestamp="1615307614902" />
+    <state x="558" y="188" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1615307001883">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="558" y="188" key="#com.intellij.ide.macro.MacrosDialog/0.0.1536.960@0.0.1536.960" timestamp="1615307001883" />
+    <state x="145" y="374" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog" timestamp="1615431593347">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="145" y="374" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog/0.0.1536.960@0.0.1536.960" timestamp="1615431593347" />
+    <state x="627" y="213" key="EnvironmentVariablesDialog" timestamp="1615307055704">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="627" y="213" key="EnvironmentVariablesDialog/0.0.1536.960@0.0.1536.960" timestamp="1615307055704" />
+    <state x="608" y="317" key="FileChooserDialogImpl" timestamp="1615307482391">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="608" y="317" key="FileChooserDialogImpl/0.0.1536.960@0.0.1536.960" timestamp="1615307482391" />
+    <state width="885" height="265" key="GridCell.Tab.0.bottom" timestamp="1615444654194">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="885" height="265" key="GridCell.Tab.0.bottom/0.0.1536.960@0.0.1536.960" timestamp="1615444654194" />
+    <state width="885" height="265" key="GridCell.Tab.0.center" timestamp="1615444654193">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="885" height="265" key="GridCell.Tab.0.center/0.0.1536.960@0.0.1536.960" timestamp="1615444654193" />
+    <state width="885" height="265" key="GridCell.Tab.0.left" timestamp="1615444654193">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="885" height="265" key="GridCell.Tab.0.left/0.0.1536.960@0.0.1536.960" timestamp="1615444654193" />
+    <state width="885" height="265" key="GridCell.Tab.0.right" timestamp="1615444654194">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="885" height="265" key="GridCell.Tab.0.right/0.0.1536.960@0.0.1536.960" timestamp="1615444654194" />
+    <state x="330" y="194" key="SettingsEditor" timestamp="1615307493777">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="330" y="194" key="SettingsEditor/0.0.1536.960@0.0.1536.960" timestamp="1615307493777" />
+  </component>
+</project>
